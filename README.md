@@ -1,6 +1,6 @@
 ## Project Description
 
-In this project I compare three different models for classification problem.
+In this project, I compare three different models for classification problems. The models that I used are XGBoost, Logistic Regression, and Random Forest Classifier. From this project, I can conclude that for this dataset, which has a small amount of data and features, Logistic Regression is the most optimal model. I think this project is quite fun, not only did I get to know more about the models and do all the tuning, but also I know the weakness and strengths of the models.
 
 ## Dataset
 -  Source            : [Loan or No Loan](https://dphi.tech/practice/challenge/54#data)
